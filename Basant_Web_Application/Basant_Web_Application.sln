@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basant_Web_Application", "Basant_Web_Application\Basant_Web_Application.csproj", "{7C5CB38C-21DD-42BA-8D2B-75F8B9EFD51D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C5CB38C-21DD-42BA-8D2B-75F8B9EFD51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5CB38C-21DD-42BA-8D2B-75F8B9EFD51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5CB38C-21DD-42BA-8D2B-75F8B9EFD51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5CB38C-21DD-42BA-8D2B-75F8B9EFD51D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDA050B8-1395-4E30-A8E7-4E7A631D16B7}
+	EndGlobalSection
+EndGlobal

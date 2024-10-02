@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hjHy+uwmodbHOqYX/R7En08/f2B3TW2rZUq+ZEzRBRScuHs5d4prR1iTATUitDRkjzRZVBX1r7A4KC35QN8Rew==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Basant_Web_Application\\Basant_Web_Application\\Basant_Web_Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\15145\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\15145\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\15145\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\15145\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

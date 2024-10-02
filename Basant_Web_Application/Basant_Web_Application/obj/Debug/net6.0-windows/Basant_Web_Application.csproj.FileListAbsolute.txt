@@ -1,0 +1,17 @@
+C:\Projects\Basant_Web_Application\Basant_Web_Application\bin\Debug\net6.0-windows\Basant_Web_Application.exe
+C:\Projects\Basant_Web_Application\Basant_Web_Application\bin\Debug\net6.0-windows\Basant_Web_Application.deps.json
+C:\Projects\Basant_Web_Application\Basant_Web_Application\bin\Debug\net6.0-windows\Basant_Web_Application.runtimeconfig.json
+C:\Projects\Basant_Web_Application\Basant_Web_Application\bin\Debug\net6.0-windows\Basant_Web_Application.dll
+C:\Projects\Basant_Web_Application\Basant_Web_Application\bin\Debug\net6.0-windows\Basant_Web_Application.pdb
+C:\Projects\Basant_Web_Application\Basant_Web_Application\obj\Debug\net6.0-windows\Basant_Web_Application.csproj.AssemblyReference.cache
+C:\Projects\Basant_Web_Application\Basant_Web_Application\obj\Debug\net6.0-windows\Basant_Web_Application.Form1.resources
+C:\Projects\Basant_Web_Application\Basant_Web_Application\obj\Debug\net6.0-windows\Basant_Web_Application.csproj.GenerateResource.cache
+C:\Projects\Basant_Web_Application\Basant_Web_Application\obj\Debug\net6.0-windows\Basant_Web_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Basant_Web_Application\Basant_Web_Application\obj\Debug\net6.0-windows\Basant_Web_Application.AssemblyInfoInputs.cache
+C:\Projects\Basant_Web_Application\Basant_Web_Application\obj\Debug\net6.0-windows\Basant_Web_Application.AssemblyInfo.cs
+C:\Projects\Basant_Web_Application\Basant_Web_Application\obj\Debug\net6.0-windows\Basant_Web_Application.csproj.CoreCompileInputs.cache
+C:\Projects\Basant_Web_Application\Basant_Web_Application\obj\Debug\net6.0-windows\Basant_Web_Application.dll
+C:\Projects\Basant_Web_Application\Basant_Web_Application\obj\Debug\net6.0-windows\refint\Basant_Web_Application.dll
+C:\Projects\Basant_Web_Application\Basant_Web_Application\obj\Debug\net6.0-windows\Basant_Web_Application.pdb
+C:\Projects\Basant_Web_Application\Basant_Web_Application\obj\Debug\net6.0-windows\Basant_Web_Application.genruntimeconfig.cache
+C:\Projects\Basant_Web_Application\Basant_Web_Application\obj\Debug\net6.0-windows\ref\Basant_Web_Application.dll
